@@ -48,8 +48,8 @@
     "headerSite" 90px
     "galeria" 600px
     "typeProducts" 380px
-    "produtos" 430px
-    "sale" 400px
+    "produtos" 500px
+    "sale" 800px
     "contact" 400px
     "aboutUs" 300px
     "footerSite" 50px
@@ -221,13 +221,13 @@ header{
 }
 
 .vendasShadow{
-    height: 400px;
+    height: 800px;
     border-radius: 0px !important;
     background-color: #f26E22 !important;
 }
 
 .produtosShadow{
-    height: 430px;
+    height: 500px;
     border-radius: 0px !important;
     background-color: #396D73  !important;
 }
@@ -244,13 +244,12 @@ header{
 .imagemProduto{
     display: flex;
     border-radius: 10px;
-
 }
 
 .imagem1Produto{
     
     display: flex;
-    margin-top: 15px; 
+    margin-top: 0px; 
     justify-content: center;
     border-radius: 20px !important;
     border: 15px solid white;
